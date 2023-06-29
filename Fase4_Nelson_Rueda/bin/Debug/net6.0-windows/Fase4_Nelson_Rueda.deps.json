@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Fase4_Nelson_Rueda/1.0.0": {
+        "runtime": {
+          "Fase4_Nelson_Rueda.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fase4_Nelson_Rueda/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
